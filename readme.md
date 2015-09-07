@@ -2,53 +2,27 @@
 
 # Calotype / SEO
 
-> **Warning!** This package is still in an alpha/beta state.
 
-SEO is a package that provides helpers for some common SEO techniques.
+SEO (Search Engine Optimization) is a free technique of getting traffic from organic search engines. It provides free different tools and method to increase your ranking. The common features of SEO are:
+SEO uses both creative and technical elements that help to increase rankings, drive traffic, and improves the awareness. It is a simple method to make your website in such a way that a search engines understand.
+- __Focus Keyword__:
+    - Main keyword on your document that will help to attract users
+    - Should be a word or a phrase
+    - Helps to get traffic
 
-## Features
+- __SEO Post Title__:
+    - Contains focus Keyword.
+    - Describes your whole document within 70 words.
 
-- __Meta tags__:
-    - Set the meta title and description on the fly.
-    - Set the meta title and description by object.
+- __Meta description__:
+    - Whole Document with focus Keyword.
+    - Should be catchy and attractive
+    
+- __Meta Tags__:
+    - Contains some part of your document
+    - should be enough to describe the main important part of document.
 
-- __Sitemap.xml__:
-    - Generate a sitemap.xml and add your own entries.
-    - Generate entries from one or more objects (lazy-loading is available).
 
-- __Robots.txt__:
-    - Generate a robots.txt and add your own entries.
-
-## Installation
-
-### Composer / Packagist
-
-Require the package in your `composer.json`.
-
-```
-"calotype/seo": "dev-master"
-```
-
-Run composer install or update to download the package.
-
-```bash
-$ composer update
-```
-
-## Providers
-
-### Laravel 4
-
-Just register the service provider and the facades in `app/config/app.php` and you are good to go.
-
-```php
-// Service provider
-'Calotype\SEO\Providers\SEOServiceProvider',
-
-// Facades (can customize if preferred)
-'SEO\Meta'    => 'Calotype\SEO\Facades\Meta',
-'SEO\Sitemap' => 'Calotype\SEO\Facades\Sitemap',
-'SEO\Robots'  => 'Calotype\SEO\Facades\Robots',
-```
+## 
 
 
