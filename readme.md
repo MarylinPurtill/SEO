@@ -3,7 +3,7 @@
 # Calotype / SEO
 
 
-SEO (Search Engine Optimization) is a free technique of getting traffic from organic search engines. It provides free different tools and method to increase your ranking. The common features of SEO are:
+SEO (Search Engine Optimization) is a free technique of getting traffic from organic. <a href="http://www.h3adrush.com">Search engine optimization nyc</a> provides free different tools and method to increase your ranking. The common features of SEO are:
 SEO uses both creative and technical elements that help to increase rankings, drive traffic, and improves the awareness. It is a simple method to make your website in such a way that a search engines understand.
 - __Focus Keyword__:
     - Main keyword on your document that will help to attract users
